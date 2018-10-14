@@ -1,0 +1,85 @@
+2013/1070/7895/:Aberdeen - Union Square 
+2260/1067/7883/:Aberdeen Beach 
+2149/878/7844/:Ashford 
+2440/1076/7832/:Ashton Moss 
+2099/881/7845/:Basildon 
+2210/973/7860/:Birmingham - Hagley Road 
+2300/1031/7862/:Birmingham - Rubery 
+2016/1095/7833/:Bolton 
+2076/849/7908/:Bournemouth  
+2340/16/7884/:Braehead 
+2119/949/7907/:Bristol - Aspects 
+2109/946/7870/:Camberley - The Atrium 
+2490/982/7846/:Cambridge - Leisure Park 
+2360/624/7896/:Castleford - Xscape 
+2470/943/7856/:Cheltenham - The Brewery 
+2320/1079/7835/:Cheshire Oaks 
+2031/1083/7834/:Chester 
+2052/979/7897/:Chesterfield 
+2239/985/7847/:Colchester 
+2012/988/7857/:Coventry 
+2015/940/7871/:Crawley 
+2041/1101/7858/:Crewe 
+2290/937/7909/:Cribbs Causeway - The Venue 
+2160/1018/7872/:Croydon 
+2229/991/7899/:Derby 
+2460/1104/7836/:Didsbury 
+2480/1021/7859/:Dudley 
+2179/1098/7885/:Dunfermline 
+2049/861/7886/:Durham - Walkergate 
+2075/24/7887/:East Kilbride 
+2063/1323/7890/:Edinburgh Fountain Park 
+2077/55/7873/:Enfield 
+2034/932/7910/:Exeter 
+2310/994/7874/:Feltham 
+2056/867/7893/:Gateshead 
+2259/1181/7891/:Glasgow Fort 
+2061/846/7848/:Harlow 
+2011/929/7875/:Hatfield 
+2035/926/7876/:Hemel Hempstead 
+2139/864/7900/:Hull - Kingswood 
+2027/923/7849/:Huntingdon 
+2032/997/7850/:Ipswich 
+2038/1092/7889/:Kinnaird Park 
+2220/607/7838/:Leeds - Centre 27 
+2058/1332/7839/:Leeds – White Rose Shopping Centre 
+2150/75/7901/:Leicester 
+2083/1346/7837/:Liverpool Edge Lane  
+2079/1073/7892/:Livingston 
+2047/917/7911/:Llantrisant 
+2010/1025/7868/:London - Leicester Square 
+2025/22/7877/:London - O2 
+2140/1009/7878/:London - Park Royal 
+2189/1086/7841/:Manchester - The Printworks 
+2036/628/7903/:Mansfield 
+2033/920/7861/:Milton Keynes - Kingston Centre 
+2065/72/7888/:Newcastle - Eldon Square 
+2055/914/7912/:Newport 
+2044/1028/7904/:Northampton 
+2219/1006/7851/:Norwich 
+2269/976/7898/:Nottingham - Cornerhouse 
+2420/1003/7902/:Nottingham - Lenton 
+2023/1015/7852/:Peterborough - Hampton 
+2022/911/7913/:Plymouth 
+2069/30/7914/:Poole 
+2089/908/7879/:Portsmouth - Gunwharf Quay 
+2450/1089/7840/:Preston 
+2280/905/7853/:Rochester 
+2200/1107/7842/:Salford Quays 
+2370/817/7905/:Sheffield 
+2037/1000/7863/:Shrewsbury 
+2082/1320/7880/:South Ruislip 
+2350/902/7915/:Southampton 
+2410/1110/7843/:Southport 
+2021/899/7854/:Stevenage 
+2199/871/7894/:Stockton 
+2054/1012/7864/:Stoke 
+2270/896/7865/:Swindon 
+2169/893/7855/:Thanet 
+2045/890/7916/:Trowbridge 
+2071/78/7917/:Truro 
+2043/887/7881/:Uxbridge 
+2046/1034/7866/:Walsall 
+2170/884/7882/:Watford 
+2059/1037/7867/:Wolverhampton 
+2249/874/7906/:York - Clifton Moor Leisure 

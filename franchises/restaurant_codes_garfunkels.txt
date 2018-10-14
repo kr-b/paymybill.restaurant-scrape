@@ -1,0 +1,9 @@
+1610/970/7627/:Bath 
+1060/1160/7921/:Charing Cross  
+1519/1243/7957/:Gatwick Airport 
+1520/1147/7919/:Kensington 
+1020/1144/7920/:Leicester Square   
+1150/1157/7923/:Paddington Station 
+1170/1058/7922/:The O2 
+1100/1154/7924/:Tottenham Court Road 
+1160/1151/7918/:Trafalgar Square  
